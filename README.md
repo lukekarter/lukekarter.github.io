@@ -1,4 +1,4 @@
-# lukekarter.github.io
+# what up chat
 this is my silly little website for goofing around in school
 <br>
 erm i think its sigma that github have webhosting
