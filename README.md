@@ -1,8 +1,5 @@
 # what up chat
-this is my silly little website for goofing around in school
+this is my silly little website for testing web development
 <br>
-erm i think its sigma that github have webhosting
 <br>
-might make some silly little game and put it in this tbh
-<br>
-umayr says hi btw guys
+working on jekyll for adding a theme then adding a game as a test
