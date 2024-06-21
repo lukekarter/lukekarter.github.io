@@ -2,4 +2,4 @@
 
 this is so sigma guys im learning markdown
 ## smaller big text
-yippee im autism
+yippee im **autism**
