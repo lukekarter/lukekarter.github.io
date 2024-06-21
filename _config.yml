@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: web test
+title: silly testing site :3
 description: >- # this means to ignore newlines until "baseurl:"
-  testing out html and other stuff
+  testing out web code and other stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lukekarter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lukekarter
