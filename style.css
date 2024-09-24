@@ -3,6 +3,8 @@ body {
   justify-content:center;
   align-items:center;
   text-align:center;
+}
+.box1 {
   height:96px;
 }
 .title {
