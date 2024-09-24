@@ -1,4 +1,10 @@
+.box1 {
+  font:verdana,sans-serif;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
 .title {
   size:20;
-  color:red;
+  opacity:10;
 }
