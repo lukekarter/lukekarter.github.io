@@ -10,9 +10,15 @@ body {
   align-items:center;
   text-align:center;
   height:96px;
-  font-family:montserrat,sans-serif;
+  stylebackground-color:lightpink;
+  width:1200;
+  height:1100;
+  border: 5px dotted black;
+  border-radius: 25px;
 }
 .title {
   size:20;
-  opacity:10;
+}
+.text {
+  size:10;
 }
