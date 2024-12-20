@@ -4,7 +4,7 @@ body {
   align-items:center;
   text-align:center;
 }
-.box1 {
+box1 {
   display:flex;
   justify-content:center;
   align-items:center;
@@ -15,9 +15,9 @@ body {
   border: 5px dotted black;
   border-radius: 25px;
 }
-.title {
+title {
   size:20;
 }
-.text {
+text {
   size:10;
 }
